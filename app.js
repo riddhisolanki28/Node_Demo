@@ -7,6 +7,8 @@ var logger = require('morgan');
 //Loads the handlebars module
 const handlebars = require('express-handlebars');
 
+//Riddhi
+
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
